@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abhisar trivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhisar-trivedi-8b9987227" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/augustus amtb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="augustus amtb" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/abhisar trivedi](https://www.linkedin.com/in/abhisar-trivedi-8b9987227)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abhisar_Trivedi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@augustusamtb4827" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="augustus amtb" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
