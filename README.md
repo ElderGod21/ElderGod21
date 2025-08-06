@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **abhisartrivedi21@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xF6EUFbY_eRqxT3_KT-72u0cZIz9kugD/view?usp=sharing](https://drive.google.com/file/d/1xF6EUFbY_eRqxT3_KT-72u0cZIz9kugD/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Kbw-9GIHr1qNjvXYGcEw5EXK_rwZrbJJ/view?usp=drive_link)
 
 - ⚡ Fun fact **I am funny, can play guitar, and good in games.**
 
