@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abhisar Trivedi</h1>
-<h3 align="center">A passionate Gamer, Coder, Astrophotographer, Filmmaker, Video Editor, ...</h3>
+<h3 align="center">A Data Analyst, Gamer, Coder, Astrophotographer, Filmmaker, Video Editor, ...</h3>
 
-- 🌱 I’m currently learning **DSA, Stock Market, Data Analysis**
+- 🌱 I’m currently learning **DSA, Data Analysis, AI**
 
 - 💬 Ask me about **Space (I love it when somebody asks me about it) and Games**
 
 - 📫 How to reach me **abhisartrivedi21@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WhAbMhh8pBWOTuIyP1HGjW245Zcg-lRa/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jvq5x_e6T6Bd0lquoZVbezeZYwQtfjY4/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny, can play guitar, and good in games.**
 
